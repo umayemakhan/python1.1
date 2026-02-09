@@ -1,2 +1,2 @@
-# python1.1
+# python
 python1
